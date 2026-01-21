@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, nodejs, MERN Stack, frontend development**
 
-- 📫 How to reach me **silentvoice@gmail.com,satyamkumarrana0000@gmail.com**
+- 📫 How to reach me **silentvoice@gmail.com,satya95340@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TXJodR9sWHtDYSI4iASCxO0TUU-zFqad/view?usp=drive_link](https://drive.google.com/file/d/1TXJodR9sWHtDYSI4iASCxO0TUU-zFqad/view?usp=drive_link)
 
