@@ -21,7 +21,7 @@
 - ✍️ Sharing knowledge through technical articles on **[Code The Destiny](https://codethedestiny.blogspot.com/)**
 - 💬 Let's talk about **React, Node.js, MERN Stack, Frontend Development**
 - 📫 Reach me at **silentvoice@gmail.com** or **satya95340@gmail.com**
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1TXJodR9sWHtDYSI4iASCxO0TUU-zFqad/view?usp=drive_link)**
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1WXCZwo0cZODrs1J90dFkDukaQUiBIJoJ/view?usp=sharing)**
 - ⚡ Fun fact: **I speak in code and dream in algorithms!**
 
 ---
